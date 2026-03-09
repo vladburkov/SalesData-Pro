@@ -116,3 +116,9 @@ SELECT
     COUNT(*) as total_orders    
 FROM hourly_sale
 GROUP BY shift;
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> d68ae77 (Fix SQL syntax errors and update documentation)

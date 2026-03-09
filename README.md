@@ -211,9 +211,9 @@ conn.close()
 
 The following issues have been corrected:
 
-1.  Fixed typo: `quantiy` → `quantity` in both SQL table definition and CSV header
-2.  Added missing semicolons to all SQL statements
-3.  Added `total_sale IS NULL` check to data cleaning queries
+1. ✅ Fixed typo: `quantiy` → `quantity` in both SQL table definition and CSV header
+2. ✅ Added missing semicolons to all SQL statements
+3. ✅ Added `total_sale IS NULL` check to data cleaning queries
 
 ---
 
